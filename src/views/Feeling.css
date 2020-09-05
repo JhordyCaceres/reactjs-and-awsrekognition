@@ -1,0 +1,21 @@
+.container {
+  margin: auto;
+  width: 400px;
+  align-content: center;
+}
+
+.box-img {
+  justify-content: center;
+  min-width: 400px;
+  min-height: 400px;
+  max-width: 400px;
+  border: lightgrey 1px solid;
+}
+
+.box-options {
+  width: 400px;
+}
+
+.tbl-emotions {
+  text-align-last: left;
+}
